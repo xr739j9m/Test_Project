@@ -1,0 +1,146 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Hash",
+      "request": "launch",
+      "mainClass": "Hash",
+      "projectName": "JAVA Programs_5ea0f4"
+    },
+    {
+      "type": "java",
+      "name": "Launch SeparatesNum2",
+      "request": "launch",
+      "mainClass": "Data_Structures.SeparatesNum2",
+      "projectName": "JAVA Programs_5ea0f4"
+    },
+    {
+      "type": "java",
+      "name": "Launch QueueTester",
+      "request": "launch",
+      "mainClass": "Data_Structures.QueueTester",
+      "projectName": "JAVA Programs_5ea0f4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch DiffAndSum",
+      "request": "launch",
+      "mainClass": "Data_Structures.DiffAndSum",
+      "projectName": "JAVA Programs_5ea0f4"
+    },
+    {
+      "type": "java",
+      "name": "Launch BankAccount",
+      "request": "launch",
+      "mainClass": "OOP_Programs.BankAccount",
+      "projectName": "JAVA Programs_5ea0f4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Stack",
+      "request": "launch",
+      "mainClass": "Data_Structures.Stack",
+      "projectName": "JAVA Programs_5ea0f4"
+    },
+    {
+      "type": "java",
+      "name": "Launch ClosestPair",
+      "request": "launch",
+      "mainClass": "github.java.DivideAndConquer.ClosestPair",
+      "projectName": "JAVA Programs_5ea0f4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Bag",
+      "request": "launch",
+      "mainClass": "github.java.DataStructures.Bags.Bag",
+      "projectName": "JAVA Programs_5ea0f4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Bag",
+      "request": "launch",
+      "mainClass": "Bag",
+      "projectName": "JAVA Programs_5ea0f4"
+    },
+    {
+      "type": "java",
+      "name": "Launch AESEncryption",
+      "request": "launch",
+      "mainClass": "AESEncryption",
+      "projectName": "JAVA Programs_5ea0f4"
+    },
+    {
+      "type": "java",
+      "name": "Launch hello",
+      "request": "launch",
+      "mainClass": "Coursera.hello",
+      "projectName": "JAVA Programs_5ea0f4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Sample",
+      "request": "launch",
+      "mainClass": "OOP_Programs.Sample",
+      "projectName": "JAVA Programs_5ea0f4"
+    },
+    {
+      "type": "java",
+      "name": "Launch SeparatesNum_1",
+      "request": "launch",
+      "mainClass": "Data_Structures.SeparatesNum_1",
+      "projectName": "new_1c2ea2d"
+    },
+    {
+      "type": "java",
+      "name": "Launch SeparatesNum",
+      "request": "launch",
+      "mainClass": "Data_Structures.SeparatesNum",
+      "projectName": "new_1c2ea2d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DiffAndSum2",
+      "request": "launch",
+      "mainClass": "Data_Structures.DiffAndSum2",
+      "projectName": "new_1c2ea2d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DiffAndSum",
+      "request": "launch",
+      "mainClass": "Data_Structures.DiffAndSum",
+      "projectName": "new_1c2ea2d"
+    },
+    {
+      "type": "java",
+      "name": "Launch SeparatesNum2",
+      "request": "launch",
+      "mainClass": "Data_Structures.SeparatesNum2",
+      "projectName": "new_1c2ea2d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "new_1c2ea2d"
+    }
+  ]
+}
